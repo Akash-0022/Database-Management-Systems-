@@ -52,16 +52,6 @@ Through these assignments, I learned how to:
 - Understand normalization and reduce data duplication.
 
 
-## 🎯 Project Goal
-
-The main goal of this project is to understand how databases work in real-world applications and improve my practical SQL and database design skills.
-
-## 👨‍💻 About Me
-
-I'm Akash, a BCA (Honours) AI & ML student at Alliance University. I'm interested in technology, programming, artificial intelligence, data science, and problem-solving.
-
-I'm continuously learning new skills and building projects to improve my technical knowledge.
-
 ## ⭐ Thanks for Visiting!
 
 Feel free to explore this repository and check out my DBMS assignments.
